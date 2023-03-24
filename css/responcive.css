@@ -1,0 +1,8 @@
+@media screen and (max-width:1024px) {
+    .title-image{
+        width: 60%;
+        transform: rotate(0deg);
+        margin: 6% 0 0 2%;
+        position: static;
+    }
+}
